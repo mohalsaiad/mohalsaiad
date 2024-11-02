@@ -1,9 +1,14 @@
-<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/mohalsaiad">Programmer</a></h1>
+<h1>Hi, I'm Mohammad AlSaiad! <br/><a href="https://github.com/mohalsaiad">Programmer</a></h1>
+
+<b>🌱 I’m currently learning ... </b>
+  - <b> Java Programming </b>
+  - <b> Spring and Spring Boot Framework </b>
+  - <b> Frontend Skills (HTML, CSS, Javascript) </b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Console Applications </b>
-  - [test](https://github.com/link)
+  - [Food Ordering Menu](https://github.com/Console_App_Food_Ordering_Menu) <b><i>(in German Language)</b></i>
 - <b>Spring Application</b>
   - [test](https://github.com/link) <b><i>(more details)</b></i>
 - <b>Frontend</b>
