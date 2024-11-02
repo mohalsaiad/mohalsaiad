@@ -8,7 +8,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Console Applications </b>
-  - [Food Ordering Menu](https://github.com/Console_App_Food_Ordering_Menu) <b><i>(in German Language)</b></i>
+  - [Food Ordering Menu](https://github.com/mohalsaiad/Console_App_Food_Ordering_Menu) <b><i>(in German Language)</b></i>
 - <b>Spring Application</b>
   - [test](https://github.com/link) <b><i>(more details)</b></i>
 - <b>Frontend</b>
