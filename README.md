@@ -9,6 +9,8 @@
 
 - <b>Java Console Applications </b>
   - [Food Ordering Menu](https://github.com/mohalsaiad/Console_App_Food_Ordering_Menu) <b><i>(in German Language)</b></i>
+  - [Library Management System](https://github.com/mohalsaiad/Console_App_Library_Management_System) <b><i>(in English Language)</b></i>
+  - [Student Management System](https://github.com/mohalsaiad/Console_App_Student_Management_System) <b><i>(in English Language)</b></i>
 - <b>Spring Application</b>
   - [test](https://github.com/link) <b><i>(more details)</b></i>
 - <b>Frontend</b>
